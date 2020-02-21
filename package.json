@@ -1,6 +1,6 @@
 {
   "name": "@mtkcs/link-extractvisitor",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Extracts links and visits them",
   "main": "lib/index.js",
   "keywords": ["link extractor"],
