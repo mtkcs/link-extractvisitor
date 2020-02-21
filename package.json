@@ -1,0 +1,15 @@
+{
+  "name": "@mtkcs/link-extractvisitor",
+  "version": "0.2.0",
+  "description": "Extracts links and visits them",
+  "main": "lib/index.js",
+  "keywords": ["link extractor"],
+  "author": "Marwen Abdesslem <marwen.88.code@gmail.com> (https://github.com/mtkcs)",
+  "license": "MIT",
+  "files": ["lib"],
+  "dependencies": {
+    "cheerio": "1.0.0-rc.3",
+    "lodash": "4.17.15",
+    "request": "2.88.2"
+  }
+}
